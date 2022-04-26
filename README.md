@@ -72,14 +72,14 @@ This bar graph shows that the number of the objects contained in train.tfrecord.
 <br>
 <br>
 <h3>4. Downloading the pretrained-model efficientdet-d0</h3>
-Please download an EfficientDet model chekcpoint file <b>efficientdet-d0.tar.gz</b>, and expand it in <b>EfficientDet-USA-RoadSigns</b> folder.<br>
+Please download an EfficientDet model chekcpoint file <b>efficientdet-d0.tar.gz</b>, and expand it in <b>EfficientDet-Japanese-Signals</b> folder.<br>
 <br>
 https://storage.googleapis.com/cloud-tpu-checkpoints/efficientdet/coco2/efficientdet-d0.tar.gz
 <br>
 See: https://github.com/google/automl/tree/master/efficientdet<br>
 
 
-<h3>5. Training USA RoadSigns Model by using pretrained-model</h3>
+<h3>5. Training Japanese Signals Model by using pretrained-model</h3>
 We use the Signals_train.bat file.
 We created a main2.py from main.py to be able to write COCO metrics to a csv files.<br>
 
@@ -281,7 +281,7 @@ python model_inspect.py ^
 </table>
 <br>
 <h3>
-8. Some detection results of USA RoadSigns
+8. Some detection results of Japanese Signals
 </h3>
 
 <img src="./projects/Signals/test_dataset_outputs/signals_1041.jpg" width="1280" height="auto"><br>
