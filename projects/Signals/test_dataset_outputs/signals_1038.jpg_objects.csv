@@ -1,2 +1,2 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-signals_1038.jpg,Traffic_Signal_Red,0.73,235,54,588,292
+signals_1038.jpg,Traffic_Signal_Red,0.68,239,55,591,284
