@@ -256,7 +256,11 @@ python ../../ModelTrainer.py ^
 </pre>
 <br>
 <br>
+<b>Console output of COCO meticss at epoch47 </b><br>
+<img src="./asset/coco_metrics_console_at_epoch47_tf2.8.0.png" width="1024" height="auto">
 <br>
+<br>
+
 <b>COCO meticss f and map</b><br>
 <img src="./asset/coco_metrics_at_epoch47_tf2.8.0.png" width="1024" height="auto">
 <br>
